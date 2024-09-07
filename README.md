@@ -2,6 +2,6 @@
 
 Hola Soy Alexis, fan de spiderman y starwars.
 
-# aprendiendo-git
+## aprendiendo-git
 
 Agregando más contenido al _Readme.md_
