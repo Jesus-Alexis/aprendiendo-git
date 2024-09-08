@@ -1,0 +1,111 @@
+commit 4c64f91c144cc6895e13c90291f4eab6ce6cd60d
+Author: Jesus-Alexis <alexis.serrano.diaz56@gmail.com>
+Date:   Fri Sep 6 23:24:38 2024 -0600
+
+    agregando 2 parrafos
+
+commit 62ade5a29b48be68fd3d1a72c3d10bcb79b4c79f
+Merge: ff33c89 212929e
+Author: Jesus-Alexis <alexis.serrano.diaz56@gmail.com>
+Date:   Fri Sep 6 23:22:26 2024 -0600
+
+    resolviendo conflicto en estaciones del año y fechas de inicio
+
+commit ff33c894dd71ed8feaa2cf4cf93c0eceb15287b1
+Author: Jesus-Alexis <alexis.serrano.diaz56@gmail.com>
+Date:   Fri Sep 6 22:57:08 2024 -0600
+
+    Estaciones del año y meses
+
+commit 212929e74782ff083e8e8c28cb770a9ec7c72270
+Author: Jesus-Alexis <alexis.serrano.diaz56@gmail.com>
+Date:   Fri Sep 6 22:57:08 2024 -0600
+
+    agregando estaciones del año
+
+commit 176901b0f276ac26d53bd5c1ff8122dfd0dff233
+Author: Jesus-Alexis <alexis.serrano.diaz56@gmail.com>
+Date:   Fri Sep 6 22:38:27 2024 -0600
+
+    añandiendo funciones de js a html
+
+commit fbdc18b0a4b92e37fe559661def7677673c49f0b
+Author: Jesus-Alexis <alexis.serrano.diaz56@gmail.com>
+Date:   Fri Sep 6 22:33:45 2024 -0600
+
+    creando una lista de elementos
+
+commit 9d145177e4f41571fa96e2093537f8c3f3d10e0b
+Merge: 9e4c1e4 a5f9185
+Author: Jesus-Alexis <alexis.serrano.diaz56@gmail.com>
+Date:   Fri Sep 6 22:18:46 2024 -0600
+
+    añadinde js
+
+commit a5f9185f0f192e962a209edfe3d76dd30f0dd02b
+Author: Jesus-Alexis <alexis.serrano.diaz56@gmail.com>
+Date:   Fri Sep 6 22:02:33 2024 -0600
+
+    creando archivo js
+
+commit 9e4c1e402dac67fbb72190c7eb029551ace9edcd
+Author: Jesus-Alexis <alexis.serrano.diaz56@gmail.com>
+Date:   Fri Sep 6 21:55:21 2024 -0600
+
+    agregando hojas de estilo a html
+
+commit cfdd123ba75dc65c2f006ed7a655a593bf690a91
+Author: Jesus-Alexis <alexis.serrano.diaz56@gmail.com>
+Date:   Fri Sep 6 21:47:51 2024 -0600
+
+    Vinculando un archivo html
+
+commit 3bdf2e8ac109ba5f9f83aca3eb7476ddb965b946
+Author: Jesus-Alexis <alexis.serrano.diaz56@gmail.com>
+Date:   Fri Sep 6 21:13:20 2024 -0600
+
+    inorando archivos .exe
+
+commit f4ce8327bd906466640197bee0e8e8cf87745350
+Author: Jesus-Alexis <alexis.serrano.diaz56@gmail.com>
+Date:   Fri Sep 6 19:33:07 2024 -0600
+
+    por que se cambio el el master a main en github
+
+commit 19eee7cd456f0b802f6bacc24403ed1c11c341f2
+Author: Jesus-Alexis <alexis.serrano.diaz56@gmail.com>
+Date:   Fri Sep 6 19:26:35 2024 -0600
+
+    cambio del encabezado 2
+
+commit 777b5602f03e66b8da0a17b48cd1698f181c30ed
+Author: Jesus-Alexis <alexis.serrano.diaz56@gmail.com>
+Date:   Fri Sep 6 19:12:59 2024 -0600
+
+    Creando licencia del repositorio
+    
+    Aquí se añadió la licencia del MT
+
+commit 6cb8bd608705800246ede8090059c030c0ff5f38
+Author: Jesus-Alexis <alexis.serrano.diaz56@gmail.com>
+Date:   Fri Sep 6 18:55:27 2024 -0600
+
+    Agregando cambios al continido de Readme Markdown
+
+commit f7ee778d2e69fbfd9e879761466b92f1a845200b
+Author: Jesus-Alexis <alexis.serrano.diaz56@gmail.com>
+Date:   Fri Sep 6 18:49:38 2024 -0600
+
+    first commit
+
+commit 6bcd5aec50067af17f1ac80ee94082dbc3e272b2
+Author: Jesus-Alexis <alexis.serrano.diaz56@gmail.com>
+Date:   Fri Sep 6 18:26:17 2024 -0600
+
+    Agregando contenido inicial al Readme
+
+commit 7a0264f25e004ebb07dcc04f3da7bbd35a64319f
+Author: Jesus-Alexis <alexis.serrano.diaz56@gmail.com>
+Date:   Fri Sep 6 18:18:33 2024 -0600
+
+    primer commit 😊
